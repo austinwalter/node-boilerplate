@@ -1,0 +1,9 @@
+{
+  "name": "node-boilerplate",
+  "version": "0.0.0",
+  "description": "A Node.js project",
+  "main": "index.ts",
+  "author": "austinwalter <awalterdev@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
